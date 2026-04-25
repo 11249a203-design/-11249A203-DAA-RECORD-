@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main() {
+int n, i, j;
+int graph[10][10], visited[10] = {0};
+printf("Enter number of vertices: ");
+#include <stdio.h>
+int main() {
+int n, i, j;
+int graph[10][10], visited[10] = {0};
+printf("Enter number of vertices: ");
+}
+}
+}
+return 0;
+}
